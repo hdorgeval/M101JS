@@ -1,6 +1,6 @@
-# M101JS
-MongoDB for Node.js Developers with Visual Studio Code
+# M101TS
 
-Part1 : Setup a MEAN stack App (Mongodb, Express, Angular2, Node.js) with Visual Studio Code.
+Project Template to create a MEAN stack App (Mongodb, Express, Angular2, Node.js) with Visual Studio Code and TypeScript.
 
-See Wiki 
+Server Side Project Template for creating a REST API
+See Wiki for details 
